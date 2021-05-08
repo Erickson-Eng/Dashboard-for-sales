@@ -1,7 +1,11 @@
 # Project created in the week devsuperior 3
-## Project execution instructions
-### Yarn package manager is required to execute the project
+
+### The project presents the generation of graphics from information accessed by the postgresql database 
+
+#### Project execution instructions
+
 ```
+Yarn package manager is required to execute the project
 Clone the repository
 # git clone https://github.com/Erickson-Eng/fullstackproject.git
 Install all dependencies
